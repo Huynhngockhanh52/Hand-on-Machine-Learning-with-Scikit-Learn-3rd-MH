@@ -1,0 +1,6 @@
+pandas 
+matplotlib
+scikit-learn
+# tarfile: tích hợp sẵn, ko cần tải
+# packaging
+urllib3
